@@ -1,0 +1,2 @@
+C:\Documents\Unity projects\Flappy Bird\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Documents\Unity projects\Flappy Bird\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
